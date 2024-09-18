@@ -1,0 +1,1 @@
+Segundo ejemplo creado para comprobar el gitignore, también creado el 18/9/24
