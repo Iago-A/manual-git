@@ -1,0 +1,1 @@
+Intentando crear un archivo de texto desde la consola de git bash
