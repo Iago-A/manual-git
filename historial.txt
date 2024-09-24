@@ -1,1 +1,1 @@
-Modificación punto 1
+Modificación antes de hacer git stash
