@@ -1,1 +1,2 @@
-Modificación antes de hacer git stash
+Pues ahora vamos a probar el git diff
+Este txt está dando para mucho.
