@@ -1,2 +1,1 @@
-Pues ahora vamos a probar el git diff
-Este txt está dando para mucho.
+Prueba de git commind --amend

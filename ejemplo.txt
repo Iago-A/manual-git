@@ -1,1 +1,2 @@
-Primer repositorio Git, inicializado el 18/9/24
+Modificación del documento de texto hecha el 25/9/24 a las 9:00 am
+(P.D: Que sueño...)
